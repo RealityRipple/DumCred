@@ -3,7 +3,7 @@
  <Description about="urn:mozilla:install-manifest">
   <em:name>DumCred</em:name>
   <em:id>{1A423754-E2DA-5B36-BCDA-45BD65998EC0}</em:id>
-  <em:version>30.0</em:version>
+  <em:version>30.29</em:version>
   <em:type>2</em:type>
   <em:targetApplication>
    <Description>
